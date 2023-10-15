@@ -237,4 +237,4 @@ dependencies:
     - xxhash==3.1.0
     - yarl==1.8.1
     - zipp==3.10.0
-prefix: /home/pxie/miniconda3/envs/mlo_tuning
+prefix: /home/miniconda3/envs/mlo_tuning
