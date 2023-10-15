@@ -1,6 +1,6 @@
 # Attention_guided_weight_mixup_BLO
 ​
-This folder contains the implementation of our proposed method in BERT.
+This folder contains the implementation of our proposed method using BERT_{LARGE} model.
 ​
 ### Create and activate conda env
 ```console
