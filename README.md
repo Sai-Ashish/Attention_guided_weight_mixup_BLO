@@ -1,4 +1,16 @@
 # Attention_guided_weight_mixup_BLO
+​
+This folder contains the implementation of our proposed method in BERT.
+​
+### Create and activate conda env
+```console
+conda env create -f environment.yml
+```
+### Start the experiments
+```console
+python multi_lanuch_script.py (or)
+bash run.sh
+```
 
 Here are the description of each code file:
 
