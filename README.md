@@ -1,4 +1,4 @@
-# Attention_guided_weight_mixup_BLO
+# Attention guided weight mixup using bi-level optimization
 ​
 This folder contains the implementation of our proposed method using BERT-LARGE model.
 ​
