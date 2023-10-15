@@ -15,12 +15,12 @@ bash run.sh
 ```console
 bash run.sh
 ```
-### Code file description
+### 📁 Code File Descriptions
 
-bert_modeling.py - BERT modeling with alpha parameters in the resultant weight node estimation
+- 📄 **bert_modeling.py**: Contains BERT modeling enhancements with alpha parameters used for the resultant weight node estimation.
 
-blo.py - implementation of the weights mixup using alpha parameters
+- 📄 **blo.py**: Implements the mixup of weights using alpha parameters.
 
-run_glue_mlo.py - the main code to run
+- 📄 **run_glue_mlo.py**: This is the primary script to execute.
 
-multi_lanuch_script.py - the script to run multiple experiments using multiprocessing.
+- 📄 **multi_launch_script.py**: Utilizes multiprocessing to execute multiple experiments concurrently.
