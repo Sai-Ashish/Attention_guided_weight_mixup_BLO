@@ -1,5 +1,7 @@
 # Attention_guided_weight_mixup_BLO
 
+Here are the description of each code file:
+
 bert_modeling.py contains the code for the BERT model backbone with alpha parameters
 
 blo.py is the implementation of the weights mixup using alpha parameters
