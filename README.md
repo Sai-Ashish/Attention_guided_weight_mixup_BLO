@@ -9,7 +9,6 @@ conda env create -f environment.yml
 ### Start the experiments
 ```console
 python multi_lanuch_script.py
-bash run.sh
 ```
 (or)
 ```console
