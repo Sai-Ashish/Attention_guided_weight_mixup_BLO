@@ -8,10 +8,13 @@ conda env create -f environment.yml
 ```
 ### Start the experiments
 ```console
-python multi_lanuch_script.py (or)
+python multi_lanuch_script.py
 bash run.sh
 ```
-
+(or)
+```console
+bash run.sh
+```
 Here are the description of each code file:
 
 bert_modeling.py contains the code for the BERT model backbone with alpha parameters
