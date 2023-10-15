@@ -15,7 +15,7 @@ bash run.sh
 ```console
 bash run.sh
 ```
-Here are the description of each code file:
+### Code file description
 
 bert_modeling.py contains the code for the BERT model backbone with alpha parameters
 
