@@ -1,4 +1,6 @@
 # Attention guided weight mixup using bi-level optimization
+
+Generalizable and Stable Finetuning of Pretrained Language Models on Low-Resource Texts - NAACL'24
 ​
 This folder contains the implementation of our proposed method using BERT-LARGE model.
 ​
